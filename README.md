@@ -1,4 +1,4 @@
-## Assignment 9 - Climate Anlysis API Creation
+## Assignment 9 - Climate Analysis API Creation
 
 ## Step 1 - Data Engineering
 
